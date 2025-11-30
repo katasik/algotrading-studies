@@ -18,6 +18,8 @@ This repo contains small, self-contained experiments in algorithmic trading and 
 python -m venv .venv
 source .venv/bin/activate  # on Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-jupyter lab  # or: jupyter notebook ```
+jupyter lab or jupyter notebook
+
+```
 
 Data is fetched on the fly from Yahoo Finance via yfinance when you run the notebook.
