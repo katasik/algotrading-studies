@@ -23,5 +23,3 @@ jupyter lab or jupyter notebook
 ```
 
 Data is fetched on the fly from Yahoo Finance via yfinance when you run the notebook.
-
-You can find the study at https://katasik.github.io/algotrading-studies/meta-gradient-boosting.html.
